@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="buttonFollowColor">#117eff</color>
+    <color name="shadowColor">#a7a7a7</color>
+    <color name="shadowColorForButtonFollow">#c8e2ff</color>
+    <color name="messageButtonColor">#c8c8d6</color>
+    <color name="userNameColor">#2e3041</color>
+    <color name="userGpsLocation">#91a5b8</color>
+    <color name="blackTextColor">#101010</color>
+    <color name="likesTextColor">#b9c5d1</color>
+    <color name="dividerColor">#dbe1e8</color>
+    <color name="photoTextColor">#becad5</color>
+    <color name="photoBorderColor">#d6e3ef</color>
+</resources>
