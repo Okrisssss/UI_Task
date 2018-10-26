@@ -3,22 +3,46 @@
 
     <!-- MARGINS-->
     <dimen name="margin_1dp">1dp</dimen>
+    <dimen name="margin_2dp">2dp</dimen>
     <dimen name="margin_4dp">4dp</dimen>
     <dimen name="margin_6dp">6dp</dimen>
     <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
     <dimen name="margin_16dp">16dp</dimen>
     <dimen name="margin_14dp">14dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
     <dimen name="margin_24dp">24dp</dimen>
+    <dimen name="margin_28dp">28dp</dimen>
+    <dimen name="margin_30dp">30dp</dimen>
     <dimen name="margin_32dp">32dp</dimen>
     <dimen name="margin_35dp">35dp</dimen>
     <dimen name="margin_64dp">64dp</dimen>
     <dimen name="margin_50dp">50dp</dimen>
+    <dimen name="margin_150dp">150dp</dimen>
 
     <!--TEXT SIZE-->
-    <dimen name="text_size_20sp">20sp</dimen>
-    <dimen name="text_size_25sp">25sp</dimen>
-    <dimen name="text_size_18sp">18sp</dimen>
     <dimen name="text_size_13sp">13sp</dimen>
     <dimen name="text_size_15sp">15sp</dimen>
+    <dimen name="text_size_18sp">18sp</dimen>
+    <dimen name="text_size_20sp">20sp</dimen>
+    <dimen name="text_size_25sp">25sp</dimen>
     <dimen name="text_size_40sp">40sp</dimen>
+
+    <!--PADDING-->
+    <dimen name="padding_10dp">10dp</dimen>
+
+    <!--PHOTOS WIDTH HEIGHT-->
+    <dimen name="photos_width">140dp</dimen>
+    <dimen name="photos_height">140dp</dimen>
+
+    <!--IMAGE BORDER WIDTH-->
+    <dimen name="photos_border_width">2dp</dimen>
+
+    <!--CONTENT DIVIDER LINE HEIGHT-->
+    <dimen name="content_divider_line_height">1.5dp</dimen>
+
+
+
+
+
 </resources>

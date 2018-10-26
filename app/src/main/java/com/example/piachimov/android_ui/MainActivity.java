@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     @OnClick({R.id.btnGoToUiActivity})
     public void goToUiActivity(){
-        Intent uiIntent = new Intent(this, UserPageActivity.class);
+        Intent uiIntent = new Intent(this, UserProfileActivity.class);
         startActivity(uiIntent);
     }
 }
