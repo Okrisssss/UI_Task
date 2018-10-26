@@ -15,7 +15,10 @@
 
         <include
             android:id="@+id/upperToolBar"
-            layout="@layout/tool_bar" />
+            layout="@layout/tool_bar"
+            android:layout_marginEnd="@dimen/margin_10dp"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent" />
 
         <com.mikhaellopez.circularimageview.CircularImageView
             android:id="@+id/userPhoto"
